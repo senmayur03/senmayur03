@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/senmayur03/senmayur03/blob/main/banner.jpg?raw=true)
-### Hi there 👋
+<h1 align="center"> Hi there 👋, Welcome to my profile!</h1>
 
 <!--
 **senmayur03/senmayur03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
